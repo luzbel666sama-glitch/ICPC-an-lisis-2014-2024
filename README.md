@@ -1,2 +1,5 @@
-# ICPC-análisis-2014-2024
-Análisis de los resultados del ICPC (2014-2024): Países con más medallas
+El International Collegiate Programing Contest (ICPC)  es la principal competencia mundial de programación organizada por y para las universidades del mundo. En ella, equipos de 3 estudiantes deben resolver, en un tiempo limitado una serie de problemas, poniendo a prueba su capacidad de trabajo bajo presión; siempre fomentando el trabajo en equipo y la creatividad.
+     Analizar los resultados de esta competencia nos permite saber cuáles países o universidades han alcanzado los primeros lugares a lo largo de la historia.
+     Cómo parte de un proyecto de Ciencia de Datos daremos respuesta a la siguiente pregunta: ¿Qué países han dominado los primeros lugares del ICPC en la década del (2014-2024) y cómo han cambiado estas posiciones?
+     Para responderla se recopilarán los datos de las finales mundiales de ese período, calificando los equipos según su país y analizando la cantidad de medallas obtenidas a lo largo del tiempo. Estos datos se obtendrán de la página oficial del ICPC y de otro sitio web llamado Competitive Programing Hall of Fame.
+     Analizando los datos mostrados en las gráficas es innegable la hegemonía de Rusia y China en ese período, llegando Rusia a alcanzar el primer lugar en 8 de las 11 finales mundiales.
