@@ -55,7 +55,7 @@ Medallas de oro ganadas (2024)
 
  Analizando los datos mostrados en las gráficas es innegable la hegemonía de Rusia y China en ese período, llegando Rusia a alcanzar el primer lugar en 8 de las 11 finales mundiales, con un total de 18 medallas de oro. China por otro lado aunque solo ganó el primer lugar 2 veces, acumuló un total de 9 medallas de oro, solo la mitad de Rusia pero sin dejar de ser un número considerable. Otros aspectos que se observan en los datos es la presencia contante de Japón y Estados Unidos en el top 4 (medallas de oro) aunque sin llegar a superar a los primeros 2 mencionados.
 
-  Para concluir analizaremos brevemente la siguiente tabla con los datos de las medallas de oro, plata y bronce obtenidas por todos los países que obtuvieron medallas en las finales mundiales del período escogido.
+  Para concluir analizaremos brevemente la siguiente tabla con los datos de las medallas de oro, plata y bronce obtenidas por todos los países que obtuvieron medallas de oro en las finales mundiales del período escogido.
 
   ## Tabla de total de medallas obtenidas por los países que alcanzaron el oro
 Medallas de los países que alcanzaron el oro (2014-2024)				
@@ -63,6 +63,7 @@ Medallas de los países que alcanzaron el oro (2014-2024)
 <img width="653" height="366" alt="image" src="https://github.com/user-attachments/assets/349aef16-97d3-4d4a-8fed-0567d140e761" />
 
 Aquí podemos observar con mayor claridad la total hegemonía de Rusia y China sobre los otros países. Un dato muy interesante es como España en los 11 años solo obtuvo medallas una vez, y curiosamente fue el oro. En resúmen, el ICPC refleja no solo el nivel académico de los equipos, sino también el talento y la dedicación que hay en todo el mundo de la programación competitiva.
+
 
 
 
