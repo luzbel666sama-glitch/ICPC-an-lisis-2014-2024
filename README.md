@@ -9,11 +9,6 @@ Cómo parte de un proyecto de Ciencia de Datos daremos respuesta a la siguiente 
 Para responderla se recopilarán los datos de las finales mundiales de ese período, calificando los equipos según su país y analizando la cantidad de medallas obtenidas a lo largo del tiempo. Estos datos se obtendrán de la página oficial del ICPC y de otro sitio web llamado Competitive Programing Hall of Fame.
 
 ## Tablas de datos recopilados
-Medallas de oro ganadas (2014)				
-Países		Oro	Posición	
-Rusia		2	1ero y 2do	
-China		1	3ro	
-Taiwán		1	4to	
 <img width="601" height="174" alt="image" src="https://github.com/user-attachments/assets/e976fc66-9879-476a-a0e4-0e1b9d200811" />
 
 Medallas de oro ganadas (2015)				
@@ -107,3 +102,4 @@ España	              1	 0	      0	      1
 <img width="653" height="366" alt="image" src="https://github.com/user-attachments/assets/349aef16-97d3-4d4a-8fed-0567d140e761" />
 
 Aquí podemos observar con mayor claridad la total hegemonía de Rusia y China sobre los otros países. Un dato muy interesante es como España en los 11 años solo obtuvo medallas una vez, y curiosamente fue el oro. En resúmen, el ICPC refleja no solo el nivel académico de los equipos, sino también el talento y la dedicación que hay en todo el mundo de la programación competitiva.
+
